@@ -23,5 +23,5 @@ Discord - DLCHAMP#6450
 <br>
 ___
 <br>
-<img align="left" alt="dlchamp Github Stats" src="https://github-readme-stats.vercel.app/apiapi/top-langs?username=dlchamp&theme=dark&show_icons=true&hide_border=true" />
-<img align="right" alt="dlchamp Github Stats" src="https://github-readme-stats.vercel.app/api?username=dlchamp%theme=dark&show_icons=true&hide_border=true" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlchamp)](https://github.com/dlchamp/github-readme-stats)
+[![DLCHAMP's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlchamp)](https://github.com/dlchamp/github-readme-stats)
