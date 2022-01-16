@@ -1,5 +1,7 @@
 ### Hi!  I'm Derek (aka DLCHAMP)
 <img align="left" alt="DLCHAP_views" src="https://komarev.com/ghpvc/?username=dlchamp&color=lightgrey" />
+&nbsp;
+
 
 ## I'm a husband, gamer, and beginner Python developer
 - I'm currently learning Python, specifically Discord bot development and web development (Flask)
