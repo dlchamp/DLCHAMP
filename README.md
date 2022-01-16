@@ -22,5 +22,5 @@ Discord - DLCHAMP#6450
 - Sublime Text with a handful of Plugins
 
 <hr>
-<img align="left" alt="DLCHAMP top lan" src="https://github-readme-stats.vercel.app/apiapi/top-langs?username=dlchamp&theme=dark&show_icons=true&hide_border=true" />
+<img align="left" alt="DLCHAMP top lan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlchamp&theme=dark&hide_border=true" />
 <img align="left" alt="DLCHAMP Github Stats" src="https://github-readme-stats.vercel.app/api?username=dlchamp&theme=dark&show_icons=true&hide_border=true" />
