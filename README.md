@@ -20,4 +20,7 @@ Discord - DLCHAMP#6450
 - Basic HTML, CSS, Shell
 - Sublime Text with a handful of Plugins
 
-
+<br>
+___
+<br>
+<img align="left" alt="dlchamp Github Stats" src="https://github-readme-stats.vercel.app/api?username=dlchamp&show_icons=true&hide_border=true" />
