@@ -21,7 +21,7 @@ Discord - DLCHAMP#6450
 - Sublime Text with a handful of Plugins
 
 <br>
-___
+<hr>
 <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlchamp)](https://github.com/dlchamp/github-readme-stats)
 [![DLCHAMP's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlchamp)](https://github.com/dlchamp/github-readme-stats)
