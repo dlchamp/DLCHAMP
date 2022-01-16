@@ -3,6 +3,7 @@
 ## I'm a husband, gamer, and beginner Python developer
 - I'm currently learning Python, specifically Discord bot development and web hosting
 - Most popular project - [LetterkennyBot](https://github.com/dlchamp/LetterkennyBot)
+- Working on: Usually fulfilling bot requests on [r/Discord_Bots](https://reddit.com/r/Discord_Bots)
 
 
 ## Hobbies and Interests
