@@ -20,8 +20,6 @@ Discord - DLCHAMP#6450
 - Basic HTML, CSS, Shell
 - Sublime Text with a handful of Plugins
 
-<br>
 <hr>
-<br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlchamp)](https://github.com/dlchamp/github-readme-stats)
-[![DLCHAMP's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlchamp)](https://github.com/dlchamp/github-readme-stats)
+<img align="left" alt="DLCHAMP top lan" src="https://github-readme-stats.vercel.app/apiapi/top-langs?username=dlchamp&theme=dark&show_icons=true&hide_border=true" />
+<img align="left" alt="DLCHAMP Github Stats" src="https://github-readme-stats.vercel.app/api?username=dlchamp%theme=dark&show_icons=true&hide_border=true" />
