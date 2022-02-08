@@ -10,7 +10,7 @@
 
 
 ## Hobbies and Interests
-- Gaming: Rocket League, Valorant, Sim Racing (noob), whichever battle royal my friends are playing
+- Gaming: Rocket League, Valorant, Sim Racing (noob), whichever battle royale my friends are playing
 - Sports I follow: Mixed Martial Arts, Formula 1
 - Maintaining my UnRAID server (Plex, Nextcloud, Webserver)
 
