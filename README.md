@@ -17,6 +17,7 @@
 
 ### Connect with me:
 Discord - DLCHAMP#6450
+[Join my Discord server and request a bot](https://discord.gg/MFgAmhfdqy)
 
 ### Language and Tools:
 - Mostly Python
