@@ -17,7 +17,7 @@
 
 ### Connect with me:
 Discord - DLCHAMP#6450  
-[Join my server](https://discord.gg/n6dpmSgUkY) - chat about coding, Python, projects, or commission a bot
+[Join my server](https://discord.gg/PKHjhzcRrY) - chat about coding, Python, projects, or commission a bot
 
 ### Language and Tools:
 - Mostly Python
