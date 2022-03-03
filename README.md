@@ -3,7 +3,7 @@
 &nbsp;
 
 
-## I'm a husband, gamer, and beginner Python developer
+## I'm a gamer, music lover, and beginner Python developer
 - I'm currently learning Python, specifically Discord bot development and web development (Flask/Django)
 - Most popular project - [LetterkennyBot](https://github.com/dlchamp/LetterkennyBot)
 - Current project is private, but it something involving a flask website.
