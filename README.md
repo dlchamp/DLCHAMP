@@ -6,7 +6,7 @@
 
 
 ### Hi!  I'm Derek (DLCHAMP)
-A beginner/intermediate Python developer with over 1 year of experience and many completed projects in various categories, like: Discord bots, back-end web development and APIs, webhooks, and various other automation scripts.  Many of which are available via my Github account.   
+A motivated and enthusiastic Python developer with a love for coding and technology. With over 2 years of experience, I've honed my skills and am constantly striving to learn and improve. Outside of coding, I enjoy playing video games, building PCs, and staying up-to-date with the latest hardware advancements.   
 
 &nbsp;
   
