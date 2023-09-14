@@ -14,7 +14,7 @@ A motivated and enthusiastic Python developer with a love for coding and technol
 Right now I'm just working to expand my Python knowledge and maintaining my active bots.
 
 ### Discord Bots
-- **CSV,Roles** - A Discord bot that handles bulk assigning roles members via a CSV file upload.
+- **CSV,Roles** - A Discord bot that handles bulk assigning roles to members via a CSV upload (works great with Google Form exports)
     - [View Docs](https://docs.dlchamp.com/en/progress-bot)
     - [View on Top.gg](https://top.gg/bot/975530567955267589)
     - Also available directly within Discord via *App DIrectory*
