@@ -14,12 +14,26 @@ A motivated and enthusiastic Python developer with a love for coding and technol
 Right now I'm just working to expand my Python knowledge and maintaining my active bots.
 
 ### Discord Bots
-- **CSV,Roles** - [Docs](https://docs.dlchamp.com/en/progress-bot) | [Invite](https://discord.com/api/oauth2/authorize?client_id=975530567955267589&permissions=268468224&scope=bot%20applications.commands) | [Top.gg](https://top.gg/bot/975530567955267589)
-- **LetterkennyBot** - [Docs](https://docs.dlchamp.com/letterkenny-bot) | [Invite](https://discord.com/api/oauth2/authorize?client_id=873640710480486451&permissions=274878032896&scope=bot%20applications.commands) | [Repo](https://github.com/dlchamp/LetterkennyBot)
+- **CSV,Roles** - A Discord bot that handles bulk assigning roles members via a CSV file upload.
+    - [View Docs](https://docs.dlchamp.com/en/progress-bot)
+    - [View on Top.gg](https://top.gg/bot/975530567955267589)
+    - Also available directly within Discord via *App DIrectory*
+      
+- **LetterkennyBot** - Let Shoresy and the gang roast your friends right inside Discord.
+  - [View Docs](https://docs.dlchamp.com/letterkenny-bot)
+  - [Invite](https://discord.com/api/oauth2/authorize?client_id=873640710480486451&permissions=274878032896&scope=bot%20applications.commands)
+  - [Repo](https://github.com/dlchamp/LetterkennyBot)
 
 
 ### Other Projects
-- **Code-to-MD** - [Repo](https://github.com/dlchamp/Code-to-MD) | [MS Marketplace](https://marketplace.visualstudio.com/items?itemName=DLCHAMP.code-to-markdown) | [OpenVSX](https://open-vsx.org/extension/DLCHAMP/code-to-markdown)
+- **Code-to-MD** - A VSCode utility extension that allows you to easily copy code snippets to your clipboard pre-formatted and ready to paste into a Discord message or Reddit comment/post.
+  - [Repo](https://github.com/dlchamp/Code-to-MD)
+  - [MS Marketplace](https://marketplace.visualstudio.com/items?itemName=DLCHAMP.code-to-markdown)
+  - [OpenVSX](https://open-vsx.org/extension/DLCHAMP/code-to-markdown)
+  - 
+- **Helply** - A utility library for Disnake that streamlines the creation of `/help` commands when using application commands.
+  - [Repo](https://github.com/dlchamp/helply)
+  - [Docs](https://dlchamp.github.io/Helply)
 
 I'm always looking for the next challenge, so feel free to connect via one of the methods below.  
 &nbsp;
